@@ -1,2 +1,2 @@
 <p>How are you?</p>
-<img src="DSC00124.jpg">
+![Random Photo](abbyags.github.io/docs/assets/IMG_2041.png)
